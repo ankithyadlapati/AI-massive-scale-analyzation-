@@ -1,2 +1,17 @@
-# AI-massive-scale-analyzation-
-Python text-summarizer project that cleans input text and generates a short summary using a lightweight AI-style model. The code is split into clear, separate files so it’s easy to read, copy, and expand
+# Python Text Summarizer
+
+A simple AI-style text summarization project.
+
+## Features
+- Text cleaning and preprocessing
+- Basic AI-like summary generation
+- Easy to expand into real ML models
+
+## Files
+- main.py — program entry
+- summarizer.py — summary pipeline
+- utils.py — text cleaning
+- dataset_loader.py — sample dataset loader
+- model_stub.py — fake AI model for summarizing
+
+## Run the project
